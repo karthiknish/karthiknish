@@ -41,7 +41,7 @@
 <img align="left" alt="Python" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Flask" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SKlearn" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Tableau" width="26px" style='padding:5px' src="https://pm-homepage-tableau.pantheonsite.io/sites/default/files/pages/tableau-logo.png" />
+<img align="left" alt="Tableau" width="26px" style='padding:5px' src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" />
 <img align="left" alt="Firebase" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="MaterialUI" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />
 <img align="left" alt="AWS" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
