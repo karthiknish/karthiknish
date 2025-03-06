@@ -1,11 +1,12 @@
 # 👋 Hello, World! I'm Karthik Nishanth
 
-## 🚀 Full-Stack Developer | Data Science Enthusiast | Cloud Architect
+## 🚀 Full-Stack Developer | Data Science Enthusiast | Cloud Architect | Digital Marketer
 
 🏭 Industrial and Production Engineering Graduate turned Tech Professional  
 👨‍💻 Experienced developer with a passion for innovative solutions  
 ☁️ AWS Certified with expertise in cloud architecture and serverless applications  
 💼 Business Technology Analyst with a focus on data-driven decision making  
+📊 Digital Marketing Specialist with experience in SEO, SEM, and social media campaigns  
 🎯 2025 Goals: Lead open-source initiatives and advance in AI/ML integration  
 🎹 When not coding, you'll find me tickling the ivories or exploring new tech
 
@@ -69,6 +70,8 @@
 - 🚀 Architected and deployed a serverless microservices application
 - 📊 Implemented ML models for predictive analytics in production
 - 🌐 Launched redesigned portfolio at [karthiknish.com](https://karthiknish.com)
+- 📈 Executed digital marketing campaigns resulting in 150% ROI
+- 🔍 Optimized SEO strategies leading to 40% increase in organic traffic
 
 ## 🎯 What's Next?
 
@@ -76,5 +79,7 @@
 - 🌐 Building scalable cloud-native applications
 - 🔒 Focusing on cybersecurity best practices in web development
 - 📱 Exploring cross-platform app development with React Native
+- 📣 Integrating marketing automation with custom web applications
+- 📊 Creating data-driven marketing dashboards for performance tracking
 
 Let's innovate and build the future together! 💻✨
