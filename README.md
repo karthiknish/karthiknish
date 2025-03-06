@@ -1,13 +1,13 @@
 # 👋 Hello, World! I'm Karthik Nishanth
 
-## 🚀 Full-Stack Developer | Data Science Enthusiast | Cloud Explorer
+## 🚀 Full-Stack Developer | Data Science Enthusiast | Cloud Architect
 
-🏭 Industrial and Production Engineering Graduate turned Tech Enthusiast  
-👨‍💻 Self-taught coding ninja with a passion for problem-solving  
-☁️ Currently diving deep into AWS and cloud technologies  
-💼 Seeking exciting opportunities as a Business Technology Analyst  
-🎯 2024 Goals: Contribute to open-source projects and master cloud architecture  
-🎹 When not coding, you'll find me tickling the ivories
+🏭 Industrial and Production Engineering Graduate turned Tech Professional  
+👨‍💻 Experienced developer with a passion for innovative solutions  
+☁️ AWS Certified with expertise in cloud architecture and serverless applications  
+💼 Business Technology Analyst with a focus on data-driven decision making  
+🎯 2025 Goals: Lead open-source initiatives and advance in AI/ML integration  
+🎹 When not coding, you'll find me tickling the ivories or exploring new tech
 
 ### 🎵 Current Earworm 🎧
 
@@ -17,6 +17,7 @@
 
 [<img align='left' alt='LinkedIn' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karthik-nishanth/)
 [<img align='left' style='margin-left:10px' alt='Instagram' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/karthik.nish)
+[<img align='left' style='margin-left:10px' alt='Website' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />](https://karthiknish.com)
 
 <br/>
 <br/>
@@ -28,6 +29,7 @@
 <img align="left" alt="CSS3" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript"  style='padding:5px' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript"  style='padding:5px' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" style='padding:5px' alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Nextjs" width="26px" style='padding:5px' src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> 
@@ -45,6 +47,7 @@
 <img align="left" alt="Firebase" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="MaterialUI" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />
 <img align="left" alt="AWS" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Docker" width="26px" style='padding:5px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <br/>
 <br/>
@@ -58,17 +61,19 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknish&layout=compact&exclude_repo=github-clone&theme=radical)
 
-## 🏆 2024 Achievements
+## 🏆 2025 Achievements
 
-- 🌟 Contributed to 5 open-source projects
-- 📚 Mastered AWS Cloud Practitioner certification
-- 🚀 Launched 2 full-stack web applications
-- 📊 Completed 3 data science projects using cutting-edge ML algorithms
+- 🌟 Led a team of contributors on 3 major open-source projects
+- 📚 Achieved AWS Solutions Architect certification
+- 🚀 Architected and deployed a serverless microservices application
+- 📊 Implemented ML models for predictive analytics in production
+- 🌐 Launched redesigned portfolio at [karthiknish.com](https://karthiknish.com)
 
 ## 🎯 What's Next?
 
-- 🌐 Exploring serverless architecture and microservices
-- 🤖 Diving into AI and machine learning applications in web development
-- 🌱 Contributing to sustainability-focused tech projects
+- 🤖 Developing AI-powered tools for developer productivity
+- 🌐 Building scalable cloud-native applications
+- 🔒 Focusing on cybersecurity best practices in web development
+- 📱 Exploring cross-platform app development with React Native
 
-Let's build something amazing together! 💻✨
+Let's innovate and build the future together! 💻✨
