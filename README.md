@@ -15,9 +15,9 @@
 
 ## 🤝 Let's Connect!
 <div style="background-color: white; padding: 10px; border-radius: 8px; display: inline-block;">
-[<img align='left' alt='LinkedIn' height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(50%); background-color: white; padding: 3px; border-radius: 5px;" />](https://www.linkedin.com/in/karthik-nishanth/)
-[<img align='left' style='margin-left:15px' alt='Instagram' height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(50%); background-color: white; padding: 3px; border-radius: 5px;" />](https://www.instagram.com/karthik.nish)
-[<img align='left' style='margin-left:15px' alt='Website' height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" style="filter: invert(50%); background-color: white; padding: 3px; border-radius: 5px;" />](https://karthiknish.com)
+<a href="https://www.linkedin.com/in/karthik-nishanth/"><img align='left' alt='LinkedIn' height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(50%); background-color: white; padding: 3px; border-radius: 5px;" /></a>
+<a href="https://www.instagram.com/karthik.nish"><img align='left' style='margin-left:15px' alt='Instagram' height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(50%); background-color: white; padding: 3px; border-radius: 5px;" /></a>
+<a href="https://karthiknish.com"><img align='left' style='margin-left:15px' alt='Website' height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" style="filter: invert(50%); background-color: white; padding: 3px; border-radius: 5px;" /></a>
 </div>
 
 <br/>
